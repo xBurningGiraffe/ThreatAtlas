@@ -1,0 +1,16 @@
+# Sample aliases (extend freely)
+USA=US
+United States of America=US
+People's Republic of China=CN
+South Korea=KR
+North Korea=KP
+Côte d’Ivoire=CI
+Cote d Ivoire=CI
+Ivory Coast=CI
+Russia=RU
+Türkiye=TR
+Turkey=TR
+State of Palestine=PS
+Palestine=PS
+Syria=SY
+Viet Nam=VN
